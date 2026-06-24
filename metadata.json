@@ -1,0 +1,6 @@
+{
+  "name": "MetFin India Steel",
+  "description": "Official website for MetFin India Steel - Chennai's trusted manufacturer of cold-drawn, turned, and polished bright steel bars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
